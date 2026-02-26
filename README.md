@@ -32,6 +32,10 @@ anyone.
 The different types of templates are divided into folders. Look for whatever
 folder you need, and maybe the file you need will be in there.
 
+- **Coding**: Starter source files for different coding projects. Might eventually
+be moved into subdirectories.
+- **Misc**: Templates that don't fit into the other folders
+
 ### Contributing
 
 If there's a Template you want to contribute to the collection, feel free to
